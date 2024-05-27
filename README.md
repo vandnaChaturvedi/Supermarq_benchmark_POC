@@ -1,5 +1,5 @@
 # Supermarq_benchmark_POC
-It is a repository which consists of all the standard benchmarks govened  by Supermarq  Benchmark repo.
+It is a repository which consists of all the standard benchmarks governed  by Supermarq  Benchmark repo.
  
  ## Installation
  
@@ -8,7 +8,7 @@ It is a repository which consists of all the standard benchmarks govened  by Sup
  
 conda create -n py310 python==3.10
 conda activate py310
-pip install --no-deps -r requirment.txt
+pip install --no-deps -r requirement.txt
 pip install jupyterlab
 jupyterlab #to open jupyter lab and run the given .ipynb files.
 ```
