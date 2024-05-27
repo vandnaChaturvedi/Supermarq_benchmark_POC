@@ -8,7 +8,7 @@ It is a repository which consists of all the standard benchmarks govened  by Sup
  
 conda create -n py310 python==3.10
 conda activate py310
-pip install --no-deps -r requirment.txt
+pip install --no-deps -r requirement.txt
 ```
 
 ## Checklist
