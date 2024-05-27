@@ -9,11 +9,11 @@ It is a repository which consists of all the standard benchmarks governed  by Su
 conda create -n py310 python==3.10
 conda activate py310
 pip install --no-deps -r requirement.txt
-<<<<<<< HEAD
+
 pip install jupyterlab
 jupyterlab #to open jupyter lab and run the given .ipynb files.
 =======
->>>>>>> refs/remotes/origin/main
+
 ```
 
 ## Checklist
