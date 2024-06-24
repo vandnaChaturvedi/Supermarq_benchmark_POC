@@ -177,7 +177,7 @@ Pyomo==6.5.0
 pyparsing 
 PyQt5==5.15.10
 PyQt5-sip
-pyquil==3.5.4
+
 pyrsistent==0.20.0
 PySocks
 pyspnego==0.10.2
@@ -193,11 +193,10 @@ PyYAML
 pyzmq==25.1.2
 qcs-api-client==0.21.6
 qiskit==0.45.3
-qiskit-aer==0.13.0
+
 qiskit-aer-gpu==0.12.2
 qiskit-aer-gpu-cu11==0.12.2
-qiskit-ibm-provider==0.10.0
-qiskit-ibm-runtime==0.23.0
+
 qiskit-superstaq==0.5.15
 qiskit-terra==0.45.3
 qtconsole==5.5.1
