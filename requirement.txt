@@ -1,0 +1,5 @@
+qiskit_aer_gpu_cu11==0.12.2
+qiskit_aer_gpu==0.12.2
+qiskit_aer==0.13.0
+qiskit==0.45.3
+Supermarq==0.5.14
