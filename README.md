@@ -9,15 +9,15 @@ It is a repository which consists of all the standard benchmarks governed  by Su
 
 ## Installation
  
- Create a virtual Environment in python 3.10 and activate the same.
+ Create a virtual Environment in python >3.7 and activate the same.
  ```bash
  
-conda create -n py39 python==3.9     # python version 3.9 above is recommended
-conda activate py3.9
+conda create -n py38 python==3.8     # python version >3.7 above is recommended
+conda activate py3.8
 pip install -r requirement.txt
 
 pip install notebook
-jupyterl notebook #to open jupyter notebook and run the given .ipynb files.
+jupyter notebook #to open jupyter notebook and run the given .ipynb files.
 =======
 
 ```
